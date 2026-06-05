@@ -22,6 +22,7 @@ Amaç; kitap, üye ve ödünç işlemlerini merkezi bir veritabanı üzerinden y
 
 ## 3. Akış Şeması
 Sistemin çalışma mantığını gösteren akış şeması aşağıda sunulmuştur.
+
 ![Akış Şeması](flowchart.png)
 
 
