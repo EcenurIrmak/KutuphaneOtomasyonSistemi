@@ -60,7 +60,7 @@ Kullanılan tablolar:
 ## 5. VERİTABANI DİYAGRAMI (ER MODELİ)
 Sistemin veritabanı yapısı ilişkisel veritabanı prensiplerine uygun olarak tasarlanmıştır. Tablolar arasında Primary Key ve Foreign Key ilişkileri kullanılarak veri bütünlüğü sağlanmıştır.
 
-![ER Diyagramı Görseli]
+![ER Diyagramı Görseli](er_diagram.png)
 
 ## 6. GENEL YAPI
 
