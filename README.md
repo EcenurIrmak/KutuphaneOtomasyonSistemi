@@ -29,7 +29,7 @@ Amaç; kitap, üye ve ödünç işlemlerini merkezi bir veritabanı üzerinden y
 
 Proje 3 katmanlı basit mimari ile geliştirilmiştir:
 ### 1. Sunum Katmanı (UI)
-  - C# WinForms formları: 
+  - **C# WinForms formları:**  
        UyelerForm, KitaplarForm, OduncVerForm, OduncListesiForm, UyeEklemeForm, IadeEtmeForm, KitapEkleForm
 ### 2. İş Katmanı (Logic)
   - Ödünç verme kuralları
@@ -37,7 +37,7 @@ Proje 3 katmanlı basit mimari ile geliştirilmiştir:
   - Trigger ve procedure kullanımı
 ### 3. Veri Katmanı (Database)
   - Microsoft SQL Server
-  - Tablolar:
+  - **Tablolar:** 
       uyeler, yayınevleri, kategoriler, kitap_kategorileri, kitaplar, yazarlar, kitap_kopyalari, odunc_almalar
     
 ## VERİTABANI DİYAGRAMI (ER MODELİ)
